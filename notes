@@ -1,0 +1,28 @@
+"lane.py"
+line_53 LANEWIDTH
+line_606 lane curvature
+line_609 off center line-427
+line_429 draw the lines on
+line_292 fit the lane on
+
+"yolo_pipeline.py"
+line_186 classifier
+
+
+
+
+
+
+
+
+
+
+edit area
+
+"lane"
+line 443,519,611,618 447 437-440 472 473
+
+
+
+"visualization"
+line 12 13 22 9 23 24 27 30
